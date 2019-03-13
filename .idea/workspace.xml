@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="y" value="23" />
+    <option name="width" value="1437" />
+    <option name="height" value="813" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552492994329" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Curlyfries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="daytwo.Curlyfries" />
+      <module name="daytwo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="daytwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Curlyfries" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
